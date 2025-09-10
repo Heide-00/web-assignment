@@ -16,7 +16,10 @@ Her klasör kendi 'README.md' dosyasına sahiptir ve kurulum/talimatlar ilgili k
 -Node.js,NestJS,Express
 
 PHASE 1: React + Vite Frontend with Sample Data/Vercel üzerinde yayınlandı.
-[Canlı Uygulama](https://web-assignment-ochre.vercel.app)
+[Canlı Uygulama](https://web-assignment-ochre.vercel.app/)
+
+PHASE 2: Backend Integration with NestJS/Render üzerinde yayınlandı.
+[Canlı Uygulama](https://web-assignment-jzhn.onrender.com/)
 
 
 
