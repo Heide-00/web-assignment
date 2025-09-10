@@ -14,3 +14,10 @@ Her klasör kendi 'README.md' dosyasına sahiptir ve kurulum/talimatlar ilgili k
 #### Kullanılan Teknolojiler
 -React,TypeScript,Vite,ESLint
 -Node.js,NestJS,Express
+
+PHASE 1: React + Vite Frontend with Sample Data/Vercel üzerinde yayınlandı.
+[Canlı Uygulama](https://web-assignment-ochre.vercel.app)
+
+
+
+
